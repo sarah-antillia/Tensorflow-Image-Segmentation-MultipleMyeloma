@@ -252,7 +252,9 @@ Evaluation console output:<br>
 Test loss    :0.1758
 Test accuracy:0.961899995803833
 </pre>
-As shown above, the loss score is a little bit lower (better) than that of our experiment.
+As shown above, the loss score is a little bit lower (better) than that of our online augmentaion experiment 
+<a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-MultipleMyeloma">Tensorflow-Image-Segmentation-Augmented-MultipleMyeloma</a>
+
 <br>
   
 <h2>
