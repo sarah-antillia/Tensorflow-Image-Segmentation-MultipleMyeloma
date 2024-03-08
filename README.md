@@ -205,7 +205,7 @@ image_height   = 640
 <h3>
 3.1 Training
 </h3>
-Please move to a <b>./projects/TensorflowSlightlyFlexibleUNet/MultipleMyeloma</b> folder,<br>
+Please move to the <b>./projects/TensorflowSlightlyFlexibleUNet/MultipleMyeloma</b> folder,<br>
 and run the following bat file to train TensorflowUNet model for MultipleMyeloma.<br>
 <pre>
 ./1.train.bat
@@ -230,7 +230,7 @@ Train losses:<br>
 <h3>
 3.2 Evaluation
 </h3>
-Please move to a <b>./projects/TensorflowSlightlyFlexibleUNet/Augmented-MultipleMyeloma</b> folder,<br>
+Please move to the <b>./projects/TensorflowSlightlyFlexibleUNet/Augmented-MultipleMyeloma</b> folder,<br>
 and run the following bat file to evaluate TensorflowUNet model for MultipleMyeloma.<br>
 <pre>
 ./2.evaluate.bat
@@ -260,7 +260,7 @@ As shown above, the loss score is a little bit lower (better) than that of our o
 <h2>
 3.3 Inference
 </h2>
-Please move to a <b>./projects/TensorflowSlightlyFlexibleUNet/MultipleMyeloma</b> folder<br>
+Please move to the <b>./projects/TensorflowSlightlyFlexibleUNet/MultipleMyeloma</b> folder<br>
 ,and run the following bat file to infer segmentation regions for images by the Trained-TensorflowUNet model for MultipleMyeloma.<br>
 <pre>
 ./3.infer.bat
