@@ -39,6 +39,7 @@ However, to develop a real medical diagnosis application based on a high-resolut
 you will require a significant amount of GPU memory and a more advanced UNet model or other CNN models.
 
 <br>
+<br>
 Please see also our online dataset augmentation experiment 
 <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-MultipleMyeloma">Tensorflow-Image-Segmentation-Augmented-MultipleMyeloma</a>
 , which uses a tiny ImageMask-Dataset of 512x512 pixel-size <a href="https://drive.google.com/file/d/1QiGah4_0yY-5B7s2kIZ2AjbEVu2ejB3G/view?usp=sharing">MultipleMyeloma-ImageMask-Dataset_V2_X.zip</a>.<br>
