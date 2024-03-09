@@ -28,6 +28,16 @@ Inferred 4k_mini_test_merged/2405.jpg<br>
 <br>
 In this experimet, we use the simple UNet Model 
 <a href="./src/TensorflowUNet.py">TensorflowSlightlyFlexibleUNet</a> for this MultipleMyeloma Segmentation.<br>
+If more GPU memory is available, you may try more complex UNet models as shown below.<br>.
+<li><a href="./src/TensorflowSwinUNet.py">TensorflowSwinUNet.py</a></li>
+<li><a href="./src/TensorflowMultiResUNet.py">TensorflowMultiResUNet.py</a></li>
+<li><a href="./src/TensorflowAttentionUNet.py">TensorflowAttentionUNet.py</a></li>
+<li><a href="./src/TensorflowUNet3Plus.py">TensorflowUNet3Plus.py</a></li>
+<br>
+We are not sure who specifically needs those UNet models for your experiments. 
+However, to develop a real medical diagnosis application based on a high-resolution image dataset, 
+you will require a significant amount of GPU memory and a more advanced UNet model or other CNN models.
+
 <br>
 Please see also our online dataset augmentation experiment 
 <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-MultipleMyeloma">Tensorflow-Image-Segmentation-Augmented-MultipleMyeloma</a>
